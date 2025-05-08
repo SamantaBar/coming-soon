@@ -3,7 +3,7 @@
 ![Eco Status](https://img.shields.io/badge/ECO-Friendly-green.svg)
 [![Discord](https://discord.com/api/guilds/571393319201144843/widget.png)](https://discord.gg/dRwW4rw)
 
-# Astronautas
+# Coming soon
 
 _website design project_
 
@@ -13,14 +13,14 @@ _website design project_
 
 This project is for educational porpuses only. Pull request are welcome, but priority for project authors! Thank you for your cooperation!
 
-Site published at: http://samantabar.github.io/astronautas/
+Site published at: https://front-end-by-rimantas.github.io/55-grupe-coming-soon
 
-Design: ![alt text](./original-design.png)
+Design: ![alt text](./project-design.png)
 
 ## 🎯 Project features/goals
 
 -   Github pages
--   no responsive design
+-   responsive design
 -   CSS file (components)
 -   external fonts
 -   CSS animations
@@ -49,7 +49,7 @@ Would like to run this project locally? Open terminal and follow these steps:
 
 1. Clone the repo
     ```sh
-    git clone https://github.com/front-end-by-rimantas/54-grupe-astronautas.git
+    git clone https://samantabar.github.io/coming-soon/
     ```
 2. Install NPM packages
     ```sh
@@ -70,7 +70,7 @@ There is no tests for this project.
 
 ## 🎅 Authors
 
-Rimantas: [Github](https://github.com/belauzas)
+https://samantabar.github.io/coming-soon/
 
 ## ⚠️ License
 
